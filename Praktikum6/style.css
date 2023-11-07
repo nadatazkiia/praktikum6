@@ -1,0 +1,66 @@
+body{
+    background-color: floralwhite;
+}
+  
+#header{
+    background-color: olivedrab;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    margin: auto;
+}
+  
+h1{
+    color: floralwhite;
+    font-size: 37px;
+}
+  
+blockquote{
+    width: 85%;
+    background-color: floralwhite;
+    color: black;
+    border-style: dashed;
+    border-color: olivedrab;
+}
+  
+#table1{
+    margin: auto;
+    width:300px;
+    text-align: center;
+}
+  
+.table2{
+    margin: auto;
+    width: 420px;
+    text-align: center;
+}
+
+.isi{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+  
+img{
+    width: 200px;
+    height: 200px;
+}
+  
+#b{
+    font-size: 50px;
+    font-weight: bold;
+    color: forestgreen;
+}
+
+#promo{
+    color: forestgreen;
+    text-align: center;
+}
+
+.promo2{
+    color: blue;
+}
+
+hr{
+    height: 2px;
+    color: black;
+}
